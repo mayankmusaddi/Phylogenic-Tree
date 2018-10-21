@@ -10,7 +10,7 @@ There are two parts of the program :
   - a : Outputs a table `Pdistance.csv` which is a table denoting the distance between two protein strands based on distance between amino acids.
   - b : Using the distance table `Pdistance.txt` created in part a, it generates a phylogenic tree, the innermost braces showing the maximum similarity.
   
-## Running thr Program
+## Running the Program
 
 To run the program :
 - 1a :
